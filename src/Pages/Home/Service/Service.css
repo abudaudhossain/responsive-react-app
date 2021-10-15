@@ -1,0 +1,9 @@
+.service{
+    background-color: #f7ecec;
+    border-radius: 10px;
+    overflow: hidden;
+}
+.service img{
+    width: 100%;
+    /* overflow: hidden; */
+}
